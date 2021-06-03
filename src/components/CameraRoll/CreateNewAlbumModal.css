@@ -1,0 +1,47 @@
+.createTitle {
+  margin-top: 0;
+  margin-bottom: 6px;
+  height: 27px;
+  width: 100%;
+  padding: 8px 10px;
+  border-style: groove;
+  border-radius: 5px;
+  font-size: 13px;
+  background: transparent;
+}
+.createDescription {
+  margin-top: 0;
+  margin-bottom: 0;
+  height: 81px;
+  width: 100%;
+  padding: 8px 10px;
+  border-style: outset;
+  border-radius: 5px;
+  font-size: 13px;
+  background: transparent;
+  box-shadow: none;
+}
+.createFooter {
+  margin-top: 150px;
+}
+
+.modal__container_create {
+  background: #fff;
+  border-radius: 5px;
+  max-width: 1496px;
+  max-height: 416px;
+  top: 50%;
+  left: 50%;
+
+  height: 397px;
+  margin: 201px auto;
+  padding: 15px;
+  width: 600px;
+  border-radius: 3px;
+  box-shadow: 0 1px 6px rgb(0 0 0 / 20%);
+  box-sizing: border-box;
+}
+
+.modal__container_create button {
+  float: right;
+}

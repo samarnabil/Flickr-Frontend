@@ -1,0 +1,106 @@
+.comment-box{
+    width: 350px;
+    height: 390px;
+    background-color: white;
+    position: relative;
+    float: right;
+    z-index: 9999;
+    border:1px solid rgba(0,0,0,0.2);
+    border-radius: 8px;
+    box-shadow: 0 16px 16px 0 rgba(0,0,0,0.2);
+}
+
+.comments{
+    position: relative;
+    width:338px;
+    height: 65%;
+    margin: 5px 5px;
+    overflow: auto;
+    white-space: nowrap; 
+}
+
+.users-comments{
+    width:99%;
+    height:55px;
+    position: relative;
+    margin: 1px 1px;
+    padding: 7px;
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+}
+
+.users-comments:hover{
+    background-color: rgba(0,0,0,0.1);
+}
+
+
+.users-comments a{
+    float:left;
+    color: #006dac;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration:none;
+    text-align: left;
+}
+
+.users-comments a:hover{
+    text-decoration: underline !important;
+}
+
+#delete-comment{
+    color: #aaaaaa;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: right;
+}
+
+.users-comments p{
+    float: left;
+    color:#212124;
+    font-size: 14px;
+    text-align: left;
+
+}
+
+.comment-box hr{
+    margin:0;
+}
+
+.mycomment{
+    position: relative;
+    width:338px;
+    height: 30%;
+    margin: 5px 5px;
+    padding-top: 5px;
+}
+
+.mycomment textarea{
+    margin: 5px 5px;
+    width:328px;
+    font-size: 14px;
+    color:darkgrey;
+}
+
+.mycomment button{
+    height: 32px;
+    line-height: 32px;
+    min-width: 100px;
+    font-size: 14px;
+    font-weight: 600;
+    background-color: #128fdc;
+    color: #fff;
+    box-sizing: border-box;
+    border-radius: 3px;
+    border: none;
+    cursor: pointer;
+    float:right;
+    margin-right: 5px;
+}
+
+.delete-comment{
+    color: #aaaaaa;
+    font-size: 20px;
+    font-weight: bold;
+
+}

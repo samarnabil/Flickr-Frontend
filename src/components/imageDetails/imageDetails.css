@@ -1,0 +1,83 @@
+@import "../navbar/constants.css";
+.imagePreview{
+    background-color: lightgray;
+}
+
+.showedImage{
+    margin-top: 60px;
+    background-color: #212124;
+}
+.showedImage .imageSlide{
+    height: 100%;
+}
+
+.showedImage .carousel-inner{
+    height: 500px;
+}
+
+.carousel-inner .adjustCarousel-item{
+    height:100%;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 100px;
+}
+
+.carousel-inner .adjustCarousel-item img{
+    height: 100%;
+}
+
+.carousel-inner .adjustCarousel-item.active{
+    display: flex;
+}
+
+.adjustbutton{
+    width: 8% !important;
+    background-color: transparent;
+    border: none;
+}
+
+.restPhotoDetails{
+    display: flex;
+    justify-content: center;
+}
+
+.discriptionAndComments{
+    width: 50%;
+    padding: 20px 10px;
+}
+
+.photoInteractions{
+    width: 50%;
+    padding: 20px 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.previewedPhotoComments{
+    padding: 10px 0;
+    width: 100%;
+}
+
+.commentBoxImageDetails input{
+    height: 110px;
+    width: 300px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.commentBoxImageDetails{
+    display: flex;
+    flex-direction: column;
+}
+
+.commentBoxImageDetails button{
+    border: none;
+    border-radius: 5px;
+    width: fit-content;
+    color: white;
+    background-color: var(--edidHoverBlue);
+}
+
+.imagePreview .previewedPhotoComments:hover{
+    background-color: white;
+}

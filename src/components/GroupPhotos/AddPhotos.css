@@ -1,0 +1,163 @@
+.AddPhotos-body{
+    background: white;
+    padding: 10px 350px 10px 350px;
+    margin-top: 60px;
+}
+
+.AddPhotos-body h1{
+    font-size: 24px;
+}
+
+.AddPhotos-body h3{
+    font-size: 18px;
+    color: #ff0084;
+    font-weight: normal;
+    margin-bottom: 10px;
+}
+
+.add-table{
+    position: relative;
+    background: #f0f0f0;
+    display:flex;
+    width: 758px;
+    height: 410px;
+    justify-content: center;
+    padding: 12px 12px;
+    margin-bottom: 50px;
+}
+
+.add-table .col1{
+    width:512px;
+    height: 340px;
+    float: left;
+    position: relative;
+    margin-right: 10px;
+}
+
+.col1 .first{
+    position: relative;
+    height: 50px;
+    width: 500px;
+    margin: 5px 5px;
+    text-align: left;
+    padding: 10px;
+}
+
+.add-table h4{
+    font-size: 16px;
+    font-weight: bold;
+    display: inline;
+}
+
+.col1 .first p{
+    font-size: 16px;
+    font-weight: normal;
+    display: inline;
+}
+
+.col1 .second{
+    position: relative;
+    height: 290px;
+    width: 500px;
+    margin: 5px 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: darkgray;
+    overflow: auto;
+    white-space: nowrap;    
+}
+
+.col1 .second .img-grid{
+    display: flex;
+    flex-wrap: wrap; 
+    height: 85px; 
+    --ratio: 1; 
+}
+
+.img-grid img{
+    height: inherit;
+    width: 85px;
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+    z-index: auto;
+    margin: 5px;
+    border-color:transparent;
+    border-style: solid;
+    border-width: 2px;   
+}
+
+
+.add-table .col2{
+    width:250px;
+    height: 350px;
+    float: right;
+}
+
+.col2 .first{
+    position: relative;
+    height: 50px;
+    width: 195px;
+    margin: 5px 5px;
+    text-align: left;
+    padding: 3px;
+}
+
+.col2 .first p{
+    font-size: 13px;
+    font-weight: normal;
+}
+
+.col2 .second{
+    position: relative;
+    height: 290px;
+    width: 195px;
+    margin: 5px 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: darkgray;   
+}
+
+.col2 .second .add-grid{
+    display: flex;
+    flex-wrap: wrap; 
+    height: 85px;  
+    --ratio: 1; 
+}
+
+.add-grid img{
+    height: inherit;
+    width: 85px;
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+    z-index: auto;
+    margin: 5px;
+    border-color:darkgray;
+    border-style: solid;
+    border-width: 2px;   
+}
+
+.col2 .third{
+    position: relative;
+    height: 30px;
+    width: 160px;
+    margin: 5px 5px;
+    overflow: auto;
+    white-space: nowrap;    
+}
+
+.col2 .third button{
+    height: 24px;
+    line-height: 24px;
+    font-size: 12px;
+    font-weight: 500;
+    background-color: #0063dc;
+    color: #fff;
+    box-sizing: border-box;
+    display: inline-block;
+    border-radius: 3px;
+    border: none;
+    cursor: pointer;
+}
+

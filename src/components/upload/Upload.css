@@ -1,0 +1,54 @@
+.uploadNavbar .navbar{
+    background-color: white;
+    /* height: 100%; */
+}
+.uploadNavbar .container-fluid{
+    height: 100%;
+}
+
+.uploadNavbar .container-fluid .logoPlusNav{
+    height: 100%;
+}
+
+.uploadNavbar .container-fluid .logoPlusNav .uploadLink{
+    height: 100%;
+}
+
+.uploadNavbar .container-fluid .logoPlusNav .flickLogoName{
+    height: 100%;
+}
+
+.uploadNavbar .navbar img{
+    height: inherit;
+    width: auto;
+}
+
+.uploadText{
+    height: 100vh;
+    background-color:var(--navBackgroundColor) ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+    text-align: center;
+}
+
+.uploadText input{
+    border: none;
+    background-color: #0063dc;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+#selectedImg{
+    width: 200px;
+    height: auto;
+    border:2px palevioletred solid;
+}
+
+.postPhoto{
+    margin-left: 20px;
+    border: 1px darkslategray solid;
+    border-radius: 10px;
+}

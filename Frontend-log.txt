@@ -1,0 +1,374 @@
+commit b1bfb575d34acc3491d40a3b4c6beec51f984c68
+Author: farahmostafa11 <58088212+farahmostafa11@users.noreply.github.com>
+Date:   Thu May 6 07:28:42 2021 +0200
+
+    finalllphase2
+
+commit f7b4498a2a0a87b16b7d119a32d741f72a778f35
+Author: farahmostafa11 <58088212+farahmostafa11@users.noreply.github.com>
+Date:   Thu May 6 07:10:54 2021 +0200
+
+    finallphase2
+
+commit 8f1093da80ec88cb9d8397699c2ae5bb430edfac
+Author: samarnabil <samarnabil22@gmail.com>
+Date:   Thu May 6 04:29:54 2021 +0200
+
+    Final Phase2
+
+commit b1c0a0b034ee6cf261d11c5eebd8427ea237405a
+Author: farahmostafa11 <58088212+farahmostafa11@users.noreply.github.com>
+Date:   Thu May 6 04:06:20 2021 +0200
+
+    intgrationphase1
+
+commit 30669e0de847141ae54607f79a3113ce9921418d
+Author: farahmostafa11 <58088212+farahmostafa11@users.noreply.github.com>
+Date:   Wed May 5 23:44:49 2021 +0200
+
+    intgration1
+
+commit 96de69a5c687fef143bebc8e7c7081d220612741
+Author: Roaa-26 <roamagdy26@gmail.com>
+Date:   Wed May 5 18:04:19 2021 -0700
+
+    Routing
+
+commit 5bed684be929d3652b3278ea51f170a4a6443979
+Author: khadijaswelam <khadijaswelam2000@gmail.com>
+Date:   Wed May 5 17:20:00 2021 +0200
+
+    layout CameraRoll
+
+commit fd4d5365a060c7f3c1fff5b1b36ca06821eeff0b
+Author: samarnabil <samarnabil22@gmail.com>
+Date:   Wed May 5 15:32:11 2021 +0200
+
+    CameralRoll mockup server
+
+commit e7ec89f133e7c11e21fc163bdb0bc2315988c087
+Author: farahmostafa11 <58088212+farahmostafa11@users.noreply.github.com>
+Date:   Wed May 5 06:23:31 2021 +0200
+
+    user server with background2
+
+commit 47084f27cec6f94351c307f5056122eaa2639627
+Author: farahmostafa11 <58088212+farahmostafa11@users.noreply.github.com>
+Date:   Wed May 5 05:05:41 2021 +0200
+
+    user server with background
+
+commit 82398efe922483a7b7cd8cdbca7c5b500a26ef37
+Author: samarnabil <samarnabil22@gmail.com>
+Date:   Wed May 5 04:53:45 2021 +0200
+
+    userInfo server
+
+commit c0a21560575e0ed56d69ea1d8c5e7c5f98d28fd3
+Author: farahmostafa11 <58088212+farahmostafa11@users.noreply.github.com>
+Date:   Wed May 5 03:01:18 2021 +0200
+
+    integrated
+
+commit f8ae9fa4696086a0e74f4c32c9c61e6a456c57d7
+Merge: 1f52f65 0f6b2c7
+Author: khadijaswelam <khadijaswelam2000@gmail.com>
+Date:   Wed May 5 01:47:08 2021 +0200
+
+    merge CameraRoll after resolving conflicts
+
+commit 0f6b2c7d847caa2bb4fe0e05cc569153d608c3eb
+Merge: 14da367 b831518
+Author: samarnabil <samarnabil22@gmail.com>
+Date:   Wed May 5 01:24:50 2021 +0200
+
+    merge photostream after conflicts
+
+commit 1f52f652bb183484017539366b168741722875d3
+Author: khadijaswelam <khadijaswelam2000@gmail.com>
+Date:   Wed May 5 01:04:56 2021 +0200
+
+    addModal layout partially implemented+ push bedore integration phase 2
+
+commit 14da367319e92b8556861fb7d85e55aee09ec42f
+Author: samarnabil <samarnabil22@gmail.com>
+Date:   Wed May 5 01:03:38 2021 +0200
+
+    Mockup & Integration
+
+commit b8315188e62e96724c8a08b4dbd3ba90c3b8afad
+Author: farahmostafa11 <58088212+farahmostafa11@users.noreply.github.com>
+Date:   Wed May 5 01:02:45 2021 +0200
+
+    tryToMergephase2
+
+commit 40ac94ab336ccb90879a60cc24401d448c84cf47
+Author: khadijaswelam <khadijaswelam2000@gmail.com>
+Date:   Tue May 4 18:36:21 2021 +0200
+
+    sidenavbar as a component
+
+commit d2dcf33817079d87b1ad920c0a92ddcbe4e47889
+Author: khadijaswelam <khadijaswelam2000@gmail.com>
+Date:   Tue May 4 17:38:01 2021 +0200
+
+    main modal responsive counter select
+
+commit 6dff4cb13858501880d35386dffa4395b2e8b1a9
+Author: khadijaswelam <khadijaswelam2000@gmail.com>
+Date:   Tue May 4 12:52:09 2021 +0200
+
+    layout mostly finished
+
+commit 1b91eba0f655b358f0b4b36e420da15d7ac73de0
+Author: khadijaswelam <khadijaswelam2000@gmail.com>
+Date:   Mon May 3 17:23:17 2021 +0200
+
+    layout: side bar uncommented
+
+commit 5759228763fa980d248a8b7ab05a437c6fd23b30
+Author: khadijaswelam <khadijaswelam2000@gmail.com>
+Date:   Mon May 3 17:13:31 2021 +0200
+
+    main modal layout finished + some fixed bugs
+
+commit 3bd825c3ea2b73fb7d40d75e01a19182266f4caf
+Author: khadijaswelam <khadijaswelam2000@gmail.com>
+Date:   Mon May 3 02:10:22 2021 +0200
+
+    some fixed bugs in main modal
+
+commit 6eaf0df90c861153ad16f8aaf35e3846b4fadb92
+Author: khadijaswelam <khadijaswelam2000@gmail.com>
+Date:   Sun May 2 20:22:46 2021 +0200
+
+    main modal layout
+
+commit f58be15c129276f6c6df840d511cb0017943c96e
+Author: khadijaswelam <khadijaswelam2000@gmail.com>
+Date:   Sun May 2 02:48:46 2021 +0200
+
+    main modal functionality partially implemented (bugs partially fixed )
+
+commit 3ea54fa6690676daf7ee9ad58da9be169956bc15
+Author: samarnabil <samarnabil22@gmail.com>
+Date:   Sun May 2 02:31:57 2021 +0200
+
+    Merging layout
+
+commit 85241520836c96caabdb7be51a3773fe36c6984e
+Author: farahmostafa11 <58088212+farahmostafa11@users.noreply.github.com>
+Date:   Sun May 2 02:29:50 2021 +0200
+
+    tryToMerge2
+
+commit aaf4396e578eeb7699330bd696cde8eb07242c31
+Author: farahmostafa11 <58088212+farahmostafa11@users.noreply.github.com>
+Date:   Sun May 2 01:39:26 2021 +0200
+
+    tryToMerge
+
+commit 6ef30e51431104500214084308791f685f202fb2
+Author: samarnabil <samarnabil22@gmail.com>
+Date:   Sat May 1 22:21:54 2021 +0200
+
+    Photo overlay without its functionality
+
+commit 7f842565836d28c1e1886af5f163c1dcacdeabcc
+Author: khadijaswelam <khadijaswelam2000@gmail.com>
+Date:   Sat May 1 18:33:52 2021 +0200
+
+    editmodal 85% and main modal partially implemented
+
+commit bbb33abd9cd57f67327f94d52142b24f345e796e
+Author: samarnabil <samarnabil22@gmail.com>
+Date:   Sat May 1 11:53:18 2021 +0200
+
+    Photostream Overlay - Not finished
+
+commit 187e3d63b551a8eb24bbf67dcea120cb9d21e133
+Author: samarnabil <samarnabil22@gmail.com>
+Date:   Sat May 1 07:26:58 2021 +0200
+
+    separate DeleteModal Component
+
+commit df7b70298e16d0e596aae507084b3d47cf753442
+Author: samarnabil <samarnabil22@gmail.com>
+Date:   Sat May 1 07:08:13 2021 +0200
+
+    Edit in Photostream finished
+
+commit 42141a6cf0361529e4341e95fa7b270f9dff8e11
+Author: samarnabil <samarnabil22@gmail.com>
+Date:   Sat May 1 05:15:02 2021 +0200
+
+    Edit card input fields
+
+commit 3ba7c64db814a2cc1dca0a101ee0f82ce955b45d
+Author: samarnabil <samarnabil22@gmail.com>
+Date:   Sat May 1 04:20:58 2021 +0200
+
+    Slideshow progess
+
+commit c7f96421f77dff7f6343321d1f4f0dd33c1931bc
+Author: khadijaswelam <khadijaswelam2000@gmail.com>
+Date:   Sat May 1 02:18:52 2021 +0200
+
+    edit modal partially implemeneted
+
+commit 8dac8a5d42494e2cac69666aea9ca5ae2dfce5ec
+Author: samarnabil <samarnabil22@gmail.com>
+Date:   Fri Apr 30 11:38:48 2021 +0200
+
+    Deletion Modal Styling/final
+
+commit cb44321cce0bc5e62a7aeb0b2d7df86a07de187e
+Author: khadijaswelam <khadijaswelam2000@gmail.com>
+Date:   Fri Apr 30 11:20:03 2021 +0200
+
+    modal partially implemented
+
+commit f20ac90c622eeee0e929bf0638540804050aff19
+Author: samarnabil <samarnabil22@gmail.com>
+Date:   Fri Apr 30 10:35:21 2021 +0200
+
+    Delete Modal Functionality
+
+commit 4d6412b5b94a04426a101614815571d304f2f399
+Author: farahmostafa11 <58088212+farahmostafa11@users.noreply.github.com>
+Date:   Thu Apr 29 11:56:07 2021 +0200
+
+    twonavsandheader2
+
+commit 841521a0c58197f709b414bcfec797fb510531aa
+Author: farahmostafa11 <58088212+farahmostafa11@users.noreply.github.com>
+Date:   Thu Apr 29 11:07:09 2021 +0200
+
+    twonavsandheader2
+
+commit 5be7218cbe54edb6168272663db5b50ad8e1d120
+Author: farahmostafa11 <58088212+farahmostafa11@users.noreply.github.com>
+Date:   Thu Apr 29 10:58:02 2021 +0200
+
+    twonavsandheader
+
+commit 017e79313b7fbf609fcd4dbc42e8fd726c0b6654
+Author: farahmostafa11 <58088212+farahmostafa11@users.noreply.github.com>
+Date:   Thu Apr 29 06:14:21 2021 +0200
+
+    header done
+
+commit 4cbefbc1b52fb750fda7514505525da7f56ff8d5
+Author: farahmostafa11 <58088212+farahmostafa11@users.noreply.github.com>
+Date:   Thu Apr 29 05:59:50 2021 +0200
+
+    header done
+
+commit 7d6b74809fc084697883a5b937de182929e1a5b9
+Author: farahmostafa11 <58088212+farahmostafa11@users.noreply.github.com>
+Date:   Thu Apr 29 04:50:12 2021 +0200
+
+    header done
+
+commit f1eff7fb8c2dc35376c16ac50eb57d7362f8dfb7
+Author: samarnabil <samarnabil22@gmail.com>
+Date:   Wed Apr 28 03:06:32 2021 +0200
+
+    Photostream Edit Card
+
+commit 8a01aa97b9e97120d23c007b3dff9104e14d91be
+Author: farahmostafa11 <58088212+farahmostafa11@users.noreply.github.com>
+Date:   Tue Apr 27 14:19:14 2021 +0200
+
+    navbar commit
+
+commit 2e5fcad570d51a8d113147439169bdeacd561f96
+Author: khadijaswelam <khadijaswelam2000@gmail.com>
+Date:   Tue Apr 27 11:35:07 2021 +0200
+
+    filtering function almost done +modal partially implemented
+
+commit 6f32904ea780cac3386043bc225663346a03c302
+Author: farahmostafa11 <58088212+farahmostafa11@users.noreply.github.com>
+Date:   Tue Apr 27 07:33:00 2021 +0200
+
+    navbar commit
+
+commit ee9688918e281c699106e8a9ba462cfb07f42d82
+Author: farahmostafa11 <58088212+farahmostafa11@users.noreply.github.com>
+Date:   Tue Apr 27 07:28:16 2021 +0200
+
+    navbar commit
+
+commit 565ba3f1fea91f4d61e4205f761c15cbb0ec14a3
+Author: samarnabil <samarnabil22@gmail.com>
+Date:   Tue Apr 27 02:18:44 2021 +0200
+
+    photostream navbar
+
+commit 428732c58687ce8f84bd9085f18b18044fd28e6a
+Author: samarnabil <samarnabil22@gmail.com>
+Date:   Mon Apr 26 20:17:28 2021 +0200
+
+    Grid Layout
+
+commit 667254607b2b359ebb19cbefe0d237d99691c8b4
+Author: khadijaswelam <khadijaswelam2000@gmail.com>
+Date:   Mon Apr 26 18:09:45 2021 +0200
+
+    CameraRoll partially implemented static page
+
+commit a286aec199a8d42485dd56e88479b574ccec13f2
+Author: khadijaswelam <khadijaswelam2000@gmail.com>
+Date:   Sun Apr 25 12:08:59 2021 +0200
+
+    CameraRoll sub nav bar and side bar partially implemented
+
+commit 2ae3102e76308c147e8964703e8d9c2278292f08
+Author: farahmostafa11 <58088212+farahmostafa11@users.noreply.github.com>
+Date:   Thu Apr 22 02:00:09 2021 +0200
+
+    removed sub1
+
+commit 44f9112c87f706b21fefe1a69d9d2698bf372332
+Author: farahmostafa11 <58088212+farahmostafa11@users.noreply.github.com>
+Date:   Thu Apr 22 01:57:17 2021 +0200
+
+    removed sub1
+
+commit c486ecc1b23c6a48f99fbd1902365346ebcf5dbf
+Merge: a257e23 252313f
+Author: farahmostafa11 <58088212+farahmostafa11@users.noreply.github.com>
+Date:   Thu Apr 22 01:52:13 2021 +0200
+
+    Merge branch 'main' of https://github.com/farahmostafa11/flickr_frontend into main
+
+commit a257e23ba4132affbc2fed1b066b40a7d51eb22d
+Author: farahmostafa11 <58088212+farahmostafa11@users.noreply.github.com>
+Date:   Thu Apr 22 01:21:31 2021 +0200
+
+    initial project version
+
+commit 51093cc55cb9861aa5eefc5c5cbb4218facbbfb6
+Author: farahmostafa11 <58088212+farahmostafa11@users.noreply.github.com>
+Date:   Thu Apr 22 01:02:52 2021 +0200
+
+    remove sub
+
+commit 1a289e2f6ff7878ad5dd883940317716b7c957dd
+Author: farahmostafa11 <58088212+farahmostafa11@users.noreply.github.com>
+Date:   Thu Apr 22 00:44:02 2021 +0200
+
+    first commit
+
+commit 252313f56e435c6196872699569cf6f53aaa315c
+Author: farahmostafa11 <58088212+farahmostafa11@users.noreply.github.com>
+Date:   Thu Apr 22 00:10:12 2021 +0200
+
+    first update
+
+commit fc8ae4ef48ecefbf719326161799cc89202364ca
+Author: farahmostafa11 <58088212+farahmostafa11@users.noreply.github.com>
+Date:   Tue Apr 20 19:43:34 2021 +0200
+
+    Initialize project using Create React App

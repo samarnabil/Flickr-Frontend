@@ -1,0 +1,91 @@
+.comment-box-explore{
+    width: 400px;
+    height: 450px;
+    background-color: white;
+    position: relative;
+    float: right;
+    z-index: 9999;
+    border:1px solid rgba(0,0,0,0.2);
+    border-radius: 8px;
+    box-shadow: 0 5px 5px 0 rgba(0,0,0,0.2);
+   
+}
+.fav-box{
+    width: 350px;
+    height: 450px;
+    background-color: white;
+    position: relative;
+    float: right;
+    z-index: 9999;
+    border:1px solid rgba(0,0,0,0.2);
+    border-radius: 8px;
+    box-shadow: 0 5px 5px 0 rgba(0,0,0,0.2);
+   
+}
+
+
+.commentPic
+{
+  
+    height: 10%;
+    width: 10%;
+
+}
+
+
+.commentPic img
+{
+  
+    border-radius: 50%;
+    margin-top: 25px;
+}
+.right-hold
+{
+    position: absolute;
+    height: 8%;
+    width: 10%;
+    
+}
+.right-hold img{
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+.textArea
+{
+    margin-left: 35px;
+}
+.Namee
+{
+    margin-left: 40px;
+}
+
+#blueCommentColor a{
+    color: #006dac !important;
+}
+.body
+{
+    margin-top: 7px;
+    margin-left: 40px;
+}
+
+.favs{
+   
+    position: relative;
+    width:338px;
+    height: 100%;
+    margin: 5px 5px;
+    /* border-bottom: 1px solid darkgrey; */
+    overflow: auto;
+   
+}
+
+.comments-explore{
+    position: relative;
+    width:393px;
+    height: 65%;
+    margin: 5px 5px;
+    /* border-bottom: 1px solid darkgrey; */
+    overflow: auto;
+    white-space: nowrap; 
+}
+

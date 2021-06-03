@@ -1,0 +1,15 @@
+.AlbumPage-body {
+  background: #f3f5f6;
+  padding: 10px 150px 10px 150px;
+  margin-top: 60px;
+}
+#backAlbum {
+  display: block;
+  color: #212124;
+  text-align: left;
+  padding: 14px 0px;
+  text-decoration: none;
+}
+#album {
+  padding-top: 3px;
+}

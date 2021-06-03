@@ -1,0 +1,137 @@
+.photostream-body {
+  background: #f3f5f6;
+  padding: 10px 150px 10px 150px;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap; 
+  --height: 240;  /* Minimal row height */
+  --ratio: 1; /* Default aspect ratio for photos that are not loaded yet */
+  padding-top: 10px;
+}
+
+
+.grid .item {
+  flex: calc(var(--height) / var(--ratio));
+  min-width: calc(var(--height) / var(--ratio) * 1px);
+  margin: 2px;
+  font-size: 0;
+  display: inline-block;
+  cursor: pointer;
+  position: relative;
+  z-index: auto;
+}
+
+.grid .item img {
+  width: 100%;
+  position: relative;
+}
+
+.grid .placeholder {
+  flex-grow: 99999;
+}
+
+/* Nav bar styles */
+#li{
+  text-align: justify;
+  padding-left: 10px;
+}
+
+#space {
+  float:left;
+}
+
+#icon-space{
+  margin-right: 30px;
+}
+
+#icon-space button{
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+}
+
+/* overlay */
+.shadow-overlay {
+  width: inherit;
+  height: 30%;
+  position:fixed;
+  transition: .5s ease;
+  bottom: 0;
+  z-index: auto;
+  cursor: default;
+  background-image: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.8));
+}
+
+
+.shadow-overlay h1{
+  margin-top : 20px;
+  margin-left: 10px; 
+  font-size: 14px;
+  color: #fff;
+  font-weight: 600;
+  min-height: 17px;
+  position: absolute;
+  display: block;
+  cursor: default;
+}
+
+.shadow-overlay ul{
+  overflow: hidden;
+  list-style-type: none;
+  position: absolute;
+  margin-top: 27px;
+  bottom:0;
+  z-index: auto;
+  display: block;
+  cursor: default;
+}
+
+#para{
+  font-size: 12px;
+  color: #fff;
+  font-weight: 400;
+  min-height: 17px;
+  display: auto;
+  cursor: default;
+}
+
+
+.shadow-overlay .tools{
+  border: 0;
+  padding-left: 10px;
+  padding-right: 10px;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  z-index: auto;
+  list-style-type: none;
+  color:white;
+
+}
+
+.shadow-overlay #info li {
+  position: relative;
+  font-size: 14px;
+  color: #fff;
+  font-weight: 600;
+  min-height: 17px;
+  display: block;
+  cursor: pointer;
+}
+
+.open-photo{
+  position: absolute;
+  z-index: 100;
+  top: 5px;
+  left: 5px;
+  width: 34px;
+  height: 39px;
+  background-color: transparent;
+  /* color:white; */
+  /* opacity: 1; */
+  border: none;
+  cursor: pointer;
+  font-size: 20px;
+}

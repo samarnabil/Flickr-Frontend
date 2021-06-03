@@ -1,0 +1,143 @@
+.list-label {
+  padding: 0 20px 0 0;
+  font-weight: 600;
+}
+.space-add {
+  padding-left: 40px;
+}
+.modalContainerAdd {
+  background: #fff;
+  border-radius: 5px;
+  max-width: 1496px;
+  max-height: 416px;
+  top: 50%;
+  left: 50%;
+  height: 400px;
+  margin: 200px auto;
+  padding: 15px;
+  width: 600px;
+  border-radius: 3px;
+  box-shadow: 0 1px 6px rgb(0 0 0 / 20%);
+  box-sizing: border-box;
+}
+.searchInput {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 1 auto;
+  border-style: hidden;
+  border: none;
+  border-color: transparent;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  padding: 8px 0;
+  box-shadow: none;
+  padding-top: 4px;
+  border: 0;
+  text-indent: 12px;
+  margin: 0 0 0 8px;
+  box-shadow: none !important;
+  outline: none;
+  font-size: 14px;
+  /* border-bottom: royalblue; */
+}
+
+#hrSearch {
+  margin-top: 2px;
+  margin-bottom: 2px;
+  background-color: dodgerblue;
+}
+#hrBottom {
+  background-color: rgb(167 182 197 / 43%);
+}
+.searchIcon {
+  padding-top: 3px;
+  padding-left: 28px;
+  padding-right: 16px;
+}
+.add-footer {
+  padding-top: 50px;
+}
+
+.modalAdd {
+  font-size: 16px;
+  padding: 1px 1px;
+  color: #464849;
+  font-weight: 400;
+  /* line-height: 17px; */
+}
+.checkIcon {
+  margin-top: 7px;
+}
+.closeAdd {
+  color: #aaaaaa;
+  float: right;
+  padding-right: 4px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.userAlbumAdd {
+  height: 41px;
+  margin-top: 10px;
+}
+.addBody {
+  height: 270px;
+  overflow: auto;
+}
+.albumAddInfo {
+  width: 450px;
+}
+.newAlbum {
+  font-size: 14px;
+  color: #0062cc;
+  margin-left: 13px;
+}
+.userAlbumCover {
+  width: 8%;
+  display: -webkit-inline-box;
+  flex-direction: column;
+}
+.albumTitleAdd {
+  color: rgb(50 137 218);
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Arial, Helvetica, sans-serif;
+  width: max-content;
+}
+#doneAdd {
+  height: 29px;
+  line-height: 29px;
+  min-width: 80px;
+  font-size: 14px;
+  background-color: #417dc0;
+  color: #fff;
+  box-sizing: border-box;
+  display: inline-block;
+  border-radius: 3px;
+  border: none;
+  cursor: pointer;
+  margin-left: 348px;
+  padding: 0 20px;
+  position: relative;
+}
+.albumInfoAdd {
+  color: #4648499e;
+  font-size: 13px;
+  font-weight: 400;
+}
+.infoContent {
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+#contentAdd {
+  display: block;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 0px;
+  position: relative;
+  /* white-space: nowrap; */
+  /* top: 50px; */
+  height: 41px;
+  max-width: 40px;
+  width: 100%;
+  overflow-y: hidden;
+  overflow-x: auto;
+}

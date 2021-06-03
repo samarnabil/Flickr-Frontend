@@ -1,0 +1,14 @@
+#groupNameAndButtton{
+    display: flex;
+    align-items: center;
+}
+
+#groupNameAndButtton button{
+    margin:0 15px;
+    border: 1px DarkGrey solid;
+    border-radius: 5px;
+}
+
+#groupAdj{
+    padding: 0;
+}

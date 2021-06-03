@@ -1,0 +1,1381 @@
+{
+  "user": {
+    "id": 0,
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c",
+    "Fname": "Farah",
+    "Lname": "Mostafa",
+    "Following": 20,
+    "Followers": 10,
+    "views": 0,
+    "Date_joined": "2021-05-31",
+    "Email": "farah@gmail.com",
+    "UserName": "farahmostafa",
+    "Photo": 60,
+    "Avatar": "https://picsum.photos/500/300?random=1",
+    "BackGround": "https://picsum.photos/500/300?random=1",
+    "About": {
+      "Description": "string",
+      "Hometown": "string",
+      "Occupation": "string",
+      "CurrentCity": "string"
+    }
+  },
+  "photos": [
+    {
+      "photoUrl": "https://picsum.photos/300/200?random=1",
+      "ownerId": 0,
+      "num_favs": 30,
+      "comments": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "title": "titttlleee",
+      "privacy": "private",
+      "description": "descriptionhgfgcgvhj",
+      "createdAt": "2021-05-29",
+      "UpdatedAt": "2021-05-29",
+      "id": 0
+    },
+    {
+      "id": 1,
+      "photoUrl": "https://picsum.photos/500/200?random=1",
+      "ownerId": 0,
+      "num_favs": 40,
+      "comments": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "title": "titttlleee",
+      "privacy": "public",
+      "description": "descriptionnn",
+      "createdAt": "2021-05-29",
+      "UpdatedAt": "2021-05-29"
+    },
+    {
+      "id": 2,
+      "photoUrl": "https://picsum.photos/600/200?random=1",
+      "ownerId": 0,
+      "num_favs": 8,
+      "comments": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "title": "titttlleee",
+      "privacy": "private",
+      "description": "descriptionnn",
+      "createdAt": "2021-05-29",
+      "UpdatedAt": "2021-05-29"
+    },
+    {
+      "photoUrl": "https://picsum.photos/400/400?random=1",
+      "ownerId": 0,
+      "num_favs": 4,
+      "comments": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "title": "Travel",
+      "privacy": "private",
+      "description": "hii",
+      "createdAt": "2021-05-29",
+      "UpdatedAt": "2021-05-29",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "photoUrl": "https://picsum.photos/300/400?random=1",
+      "ownerId": 0,
+      "num_favs": 4,
+      "comments": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "title": "titttlleee",
+      "privacy": "private",
+      "description": "descriptionnn",
+      "createdAt": "2021-05-29",
+      "UpdatedAt": "2021-05-29"
+    },
+    {
+      "id": 5,
+      "photoUrl": "https://picsum.photos/400/400?random=2",
+      "ownerId": 0,
+      "num_favs": 400,
+      "comments": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "title": "titttlleee",
+      "privacy": "public",
+      "description": "descriptionnn",
+      "createdAt": "2021-05-29",
+      "UpdatedAt": "2021-05-29"
+    },
+    {
+      "photoUrl": "https://picsum.photos/500/400?random=1",
+      "ownerId": 0,
+      "num_favs": 56,
+      "comments": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "title": "Hello",
+      "privacy": "public",
+      "description": "Good night",
+      "createdAt": "2021-05-29",
+      "UpdatedAt": "2021-05-29",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "photoUrl": "https://picsum.photos/600/400?random=1",
+      "ownerId": 0,
+      "num_favs": 56,
+      "comments": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "title": "titttlleee",
+      "privacy": "public",
+      "description": "descriptionnn",
+      "createdAt": "2021-05-29",
+      "UpdatedAt": "2021-05-29"
+    },
+    {
+      "id": 8,
+      "photoUrl": "https://picsum.photos/300/500?random=4",
+      "ownerId": 0,
+      "num_favs": 56,
+      "comments": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "title": "titttlleee",
+      "privacy": "private",
+      "description": "descriptionnn",
+      "createdAt": "2021-05-29",
+      "UpdatedAt": "2021-05-29"
+    },
+    {
+      "id": 9,
+      "photoUrl": "https://picsum.photos/400/300?random=4",
+      "ownerId": 0,
+      "num_favs": 56,
+      "comments": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "title": "titttlleee",
+      "privacy": "private",
+      "description": "descriptionnn",
+      "createdAt": "2021-05-29",
+      "UpdatedAt": "2021-05-29"
+    },
+    {
+      "id": 10,
+      "photoUrl": "https://picsum.photos/500/300?random=4",
+      "ownerId": 0,
+      "num_favs": 56,
+      "comments": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "title": "titttlleee",
+      "privacy": "private",
+      "description": "descriptionnn",
+      "createdAt": "2021-05-29",
+      "UpdatedAt": "2021-05-29"
+    },
+    {
+      "id": 11,
+      "photoUrl": "https://picsum.photos/400/500?random=1",
+      "ownerId": 0,
+      "num_favs": 56,
+      "comments": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "title": "titttlleee",
+      "privacy": "private",
+      "description": "descriptionnn",
+      "createdAt": "2021-05-29",
+      "UpdatedAt": "2021-05-29"
+    },
+    {
+      "id": 12,
+      "photoUrl": "https://picsum.photos/500/500?random=1",
+      "ownerId": 0,
+      "num_favs": 56,
+      "comments": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "title": "titttlleee",
+      "privacy": "private",
+      "description": "descriptionnn",
+      "createdAt": "2021-05-29",
+      "UpdatedAt": "2021-05-29"
+    },
+    {
+      "id": 13,
+      "photoUrl": "https://picsum.photos/600/500?random=1",
+      "ownerId": 0,
+      "num_favs": 56,
+      "comments": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "title": "titttlleee",
+      "privacy": "private",
+      "description": "descriptionnn",
+      "createdAt": "2021-05-29",
+      "UpdatedAt": "2021-05-29"
+    },
+    {
+      "id": 14,
+      "photoUrl": "https://picsum.photos/200/300?random=2",
+      "ownerId": 0,
+      "num_favs": 56,
+      "comments": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "title": "titttlleee",
+      "privacy": "private",
+      "description": "descriptionnn",
+      "createdAt": "2021-05-29",
+      "UpdatedAt": "2021-05-29"
+    },
+    {
+      "id": 15,
+      "photoUrl": "https://picsum.photos/300/300?random=2",
+      "ownerId": 0,
+      "num_favs": 56,
+      "comments": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "title": "titttlleee",
+      "privacy": "private",
+      "description": "descriptionnn",
+      "createdAt": "2021-05-29",
+      "UpdatedAt": "2021-05-29"
+    }
+  ],
+  "comments": [
+    {
+      "comment": "comment title",
+      "id": "0",
+      "user": {
+        "Fname": "John",
+        "Lname": "Smith",
+        "id": "100"
+      },
+      "createdAt": "2020-5-23",
+      "updatedAt": "2021-4-2"
+    },
+    {
+      "comment": "comment title",
+      "id": "1",
+      "user": {
+        "Fname": "Samar",
+        "Lname": "Nabil",
+        "id": "100"
+      },
+      "createdAt": "2020-5-23",
+      "updatedAt": "2021-4-2"
+    },
+    {
+      "comment": "comment",
+      "id": "2",
+      "user": {
+        "Fname": "hi",
+        "Lname": "hi",
+        "id": "100"
+      },
+      "createdAt": "2020-5-23",
+      "updatedAt": "2021-4-2"
+    },
+    {
+      "comment": "!!!!!!!!!!",
+      "id": "3",
+      "user": {
+        "Fname": "John",
+        "Lname": "Smith",
+        "id": "100"
+      },
+      "createdAt": "2020-5-23",
+      "updatedAt": "2021-4-2"
+    },
+    {
+      "comment": "samar new comment",
+      "user": {
+        "Fname": "John",
+        "Lname": "Smith",
+        "id": "100"
+      },
+      "createdAt": "2020-5-23",
+      "updatedAt": "2021-4-2",
+      "id": "IDWU92j"
+    },
+    {
+      "comment": "hi",
+      "user": {
+        "Fname": "John",
+        "Lname": "Smith",
+        "id": "100"
+      },
+      "createdAt": "2020-5-23",
+      "updatedAt": "2021-4-2",
+      "id": "C4zjCaQ"
+    },
+    {
+      "comment": "hey",
+      "user": {
+        "Fname": "John",
+        "Lname": "Smith",
+        "id": "100"
+      },
+      "createdAt": "2020-5-23",
+      "updatedAt": "2021-4-2",
+      "id": "rUMhykg"
+    },
+    {
+      "comment": "new comment",
+      "user": {
+        "Fname": "John",
+        "Lname": "Smith",
+        "id": "100"
+      },
+      "createdAt": "2020-5-23",
+      "updatedAt": "2021-4-2",
+      "id": "hcPvs9x"
+    },
+    {
+      "comment": "hii",
+      "user": {
+        "Fname": "John",
+        "Lname": "Smith",
+        "id": "100"
+      },
+      "createdAt": "2020-5-23",
+      "updatedAt": "2021-4-2",
+      "id": "qQjcBH_"
+    }
+  ],
+  "following": [
+    {
+      "Fname": "Farah",
+      "Lname": "Mostafa",
+      "UserName": "farahMostafa",
+      "Email": "farahmostafa@example.com",
+      "id": 0,
+      "Photos": 50,
+      "avatar": "https://upload.wikimedia.org/wikipedia/en/c/c4/Mickey_Mouse_%28fair_use%29.png"
+    },
+    {
+      "Fname": "Samar",
+      "Lname": "Nabil",
+      "UserName": "farahMostafa",
+      "Email": "farahmostafa@example.com",
+      "id": 0,
+      "Photos": 50,
+      "avatar": "https://upload.wikimedia.org/wikipedia/en/c/c4/Mickey_Mouse_%28fair_use%29.png"
+    },
+    {
+      "Fname": "Khadija",
+      "Lname": "Mostafa",
+      "UserName": "farahMostafa",
+      "Email": "farahmostafa@example.com",
+      "id": 0,
+      "Photos": 50,
+      "avatar": "https://upload.wikimedia.org/wikipedia/en/c/c4/Mickey_Mouse_%28fair_use%29.png"
+    },
+    {
+      "Fname": "Habiba",
+      "Lname": "Mostafa",
+      "UserName": "farahMostafa",
+      "Email": "farahmostafa@example.com",
+      "id": 0,
+      "Photos": 50,
+      "avatar": "https://upload.wikimedia.org/wikipedia/en/c/c4/Mickey_Mouse_%28fair_use%29.png"
+    },
+    {
+      "Fname": "Roaa",
+      "Lname": "Magdy",
+      "UserName": "farahMostafa",
+      "Email": "farahmostafa@example.com",
+      "id": 0,
+      "Photos": 50,
+      "avatar": "https://upload.wikimedia.org/wikipedia/en/c/c4/Mickey_Mouse_%28fair_use%29.png"
+    }
+  ],
+  "followers": [
+    {
+      "Fname": "Farah",
+      "Lname": "Mostafa",
+      "UserName": "farahMostafa",
+      "Email": "farahmostafa@example.com",
+      "id": 0,
+      "Photos": 50,
+      "avatar": "https://upload.wikimedia.org/wikipedia/en/c/c4/Mickey_Mouse_%28fair_use%29.png"
+    },
+    {
+      "Fname": "Khadija",
+      "Lname": "Mostafa",
+      "UserName": "farahMostafa",
+      "Email": "farahmostafa@example.com",
+      "id": 0,
+      "Photos": 50,
+      "avatar": "https://upload.wikimedia.org/wikipedia/en/c/c4/Mickey_Mouse_%28fair_use%29.png"
+    },
+    {
+      "Fname": "Habiba",
+      "Lname": "Mostafa",
+      "UserName": "farahMostafa",
+      "Email": "farahmostafa@example.com",
+      "id": 0,
+      "Photos": 50,
+      "avatar": "https://upload.wikimedia.org/wikipedia/en/c/c4/Mickey_Mouse_%28fair_use%29.png"
+    },
+    {
+      "Fname": "Roaa",
+      "Lname": "Magdy",
+      "UserName": "farahMostafa",
+      "Email": "farahmostafa@example.com",
+      "id": 0,
+      "Photos": 50,
+      "avatar": "https://upload.wikimedia.org/wikipedia/en/c/c4/Mickey_Mouse_%28fair_use%29.png"
+    }
+  ],
+  "userFav": [
+    {
+      "id": 0,
+      "photoUrl": "https://picsum.photos/200/200?random=2",
+      "title": "titttlleee",
+      "descript": "description",
+      "Fav": [],
+      "privacy": "public",
+      "tags": [],
+      "ownerId": 0,
+      "peopleTags": [],
+      "comments": 78,
+      "Favs": 60,
+      "Username": "username",
+      "Name": "Samar Nabil"
+    },
+    {
+      "id": 2,
+      "photoUrl": "https://picsum.photos/700/400?random=2",
+      "title": "titttlleee",
+      "descript": "description",
+      "Fav": [],
+      "privacy": "public",
+      "tags": [],
+      "ownerId": 0,
+      "peopleTags": [],
+      "comments": 78,
+      "Favs": 60,
+      "Username": "username",
+      "Name": "Samar Nabil"
+    },
+    {
+      "photoUrl": "https://picsum.photos/200/200?random=2",
+      "title": "added Fav",
+      "descript": "description",
+      "Fav": [],
+      "privacy": "public",
+      "tags": [],
+      "ownerId": 0,
+      "peopleTags": [],
+      "comments": 78,
+      "Favs": 60,
+      "Username": "username",
+      "Name": "Samar Nabil",
+      "id": 4
+    }
+  ],
+  "peopleFollowing": [
+    {
+      "Fname": "Farah",
+      "Lname": "Mostafa",
+      "UserName": "string",
+      "id": 0,
+      "numberOfPublicPhotos": 10
+    },
+    {
+      "Fname": "Farah",
+      "Lname": "Mostafa",
+      "UserName": "string",
+      "id": 0,
+      "numberOfPublicPhotos": 10
+    },
+    {
+      "Fname": "Farah",
+      "Lname": "Mostafa",
+      "UserName": "string",
+      "id": 0,
+      "numberOfPublicPhotos": 10
+    },
+    {
+      "Fname": "Farah",
+      "Lname": "Mostafa",
+      "UserName": "string",
+      "id": 0,
+      "numberOfPublicPhotos": 10
+    }
+  ],
+  "peoplePhotos": [
+    {
+      "id": 0,
+      "userName": "samarnabil",
+      "tags": "string",
+      "title": "people title",
+      "description": "people description",
+      "photoUrl": "https://picsum.photos/200/200?random=1",
+      "peopleTags": "string",
+      "ownerId": 0,
+      "privacy": "public",
+      "createdAt": "2021-05-30",
+      "updatedAt": "2021-05-30",
+      "numberOfFavs": 10,
+      "numberOfComments": 5
+    },
+    {
+      "id": 1,
+      "userName": "samarnabil1",
+      "tags": "string",
+      "title": "people title",
+      "description": "people description",
+      "photoUrl": "https://picsum.photos/300/100?random=3",
+      "peopleTags": "string",
+      "ownerId": 0,
+      "privacy": "public",
+      "createdAt": "2021-05-30",
+      "updatedAt": "2021-05-30",
+      "numberOfFavs": 10,
+      "numberOfComments": 5
+    },
+    {
+      "id": 2,
+      "userName": "samarnabil",
+      "tags": "string",
+      "title": "people title",
+      "description": "people description",
+      "photoUrl": "https://picsum.photos/600/200?random=3",
+      "peopleTags": "string",
+      "ownerId": 0,
+      "privacy": "public",
+      "createdAt": "2021-05-30",
+      "updatedAt": "2021-05-30",
+      "numberOfFavs": 10,
+      "numberOfComments": 5
+    },
+    {
+      "id": 3,
+      "userName": "samarnabil",
+      "tags": "string",
+      "title": "people title",
+      "description": "people description",
+      "photoUrl": "https://picsum.photos/400/200?random=2",
+      "peopleTags": "string",
+      "ownerId": 0,
+      "privacy": "public",
+      "createdAt": "2021-05-30",
+      "updatedAt": "2021-05-30",
+      "numberOfFavs": 10,
+      "numberOfComments": 5
+    },
+    {
+      "id": 4,
+      "userName": "samarnabil",
+      "tags": "string",
+      "title": "people title",
+      "description": "people description",
+      "photoUrl": "https://picsum.photos/400/400?random=2",
+      "peopleTags": "string",
+      "ownerId": 0,
+      "privacy": "public",
+      "createdAt": "2021-05-30",
+      "updatedAt": "2021-05-30",
+      "numberOfFavs": 10,
+      "numberOfComments": 5
+    },
+    {
+      "id": 5,
+      "userName": "samarnabil",
+      "tags": "string",
+      "title": "people title",
+      "description": "people description",
+      "photoUrl": "https://picsum.photos/600/300?random=2",
+      "peopleTags": "string",
+      "ownerId": 0,
+      "privacy": "public",
+      "createdAt": "2021-05-30",
+      "updatedAt": "2021-05-30",
+      "numberOfFavs": 10,
+      "numberOfComments": 5
+    },
+    {
+      "id": 6,
+      "userName": "samarnabil",
+      "tags": "string",
+      "title": "people title",
+      "description": "people description",
+      "photoUrl": "https://picsum.photos/500/500?random=2",
+      "peopleTags": "string",
+      "ownerId": 0,
+      "privacy": "public",
+      "createdAt": "2021-05-30",
+      "updatedAt": "2021-05-30",
+      "numberOfFavs": 10,
+      "numberOfComments": 5
+    }
+  ],
+  "peopleFav": [
+    {
+      "id": 0,
+      "userName": "peoplefav",
+      "title": "pfav title",
+      "photoUrl": "https://picsum.photos/500/100?random=2",
+      "numberOfComments": 7
+    },
+    {
+      "id": 1,
+      "userName": "peoplefav",
+      "title": "pfav title",
+      "photoUrl": "https://picsum.photos/500/200?random=2",
+      "numberOfComments": 7
+    },
+    {
+      "id": 2,
+      "userName": "peoplefav",
+      "title": "pfav title",
+      "photoUrl": "https://picsum.photos/400/200?random=2",
+      "numberOfComments": 7
+    },
+    {
+      "id": 3,
+      "userName": "peoplefav",
+      "title": "pfav title",
+      "photoUrl": "https://picsum.photos/400/200?random=1",
+      "numberOfComments": 7
+    },
+    {
+      "id": 4,
+      "userName": "peoplefav",
+      "title": "pfav title",
+      "photoUrl": "https://picsum.photos/200/100?random=2",
+      "numberOfComments": 7
+    },
+    {
+      "id": 5,
+      "userName": "peoplefav",
+      "title": "pfav title",
+      "photoUrl": "https://picsum.photos/600/200?random=2",
+      "numberOfComments": 7
+    }
+  ],
+  "userAlbums": [
+    {
+      "id": "0",
+      "title": "Album1",
+      "description": "my album",
+      "ownerId": {
+        "_id": "609dd9ac9a52002aa498befe",
+        "Fname": "Mostafa",
+        "Lname": "Ashraf",
+        "UserName": "Mostafa123",
+        "Email": "test@test.com",
+        "Avatar": "609dd9ac9a52002aa498befe"
+      },
+      "photos": [
+        {
+          "id": "60b222e537838723b02201fd",
+          "title": "photo1",
+          "description": "my photo",
+          "photoUrl": "https://picsum.photos/600/200?random=2",
+          "Fav": [
+            "60b222e537838723b02201fd"
+          ],
+          "privacy": "public",
+          "ownerId": "60b222e537838723b02201fd",
+          "tags": [
+            "Nature"
+          ],
+          "peopleTags": [
+            {
+              "tagging": "integer",
+              "tagged": [
+                "60b222e537838723b02201fd"
+              ],
+              "createdAt": "2021-05-29T11:17:57.326Z",
+              "updatedAt": "2021-05-29T11:17:57.326Z"
+            }
+          ],
+          "comments": [
+            {
+              "comment": "this is a comment",
+              "user": "60b222e537838723b02201fd",
+              "createdAt": "2021-05-29T11:17:57.326Z",
+              "updatedAt": "2021-05-29T11:17:57.326Z"
+            }
+          ],
+          "createdAt": "2021-05-29T11:17:57.326Z",
+          "updatedAt": "2021-05-29T11:17:57.326Z"
+        }
+      ],
+      "coverPhoto": {
+        "id": "1",
+        "title": "photo1",
+        "description": "my photo",
+        "photoUrl": "https://picsum.photos/200/200?random=1",
+        "Fav": [
+          "60b222e537838723b02201fd"
+        ],
+        "privacy": "private",
+        "ownerId": "60b222e537838723b02201fd",
+        "tags": [
+          "Nature"
+        ],
+        "peopleTags": [
+          {
+            "tagging": "integer",
+            "tagged": [
+              "60b222e537838723b02201fd"
+            ],
+            "createdAt": "2021-05-29T11:17:57.326Z",
+            "updatedAt": "2021-05-29T11:17:57.326Z"
+          }
+        ],
+        "comments": [
+          0,
+          1
+        ],
+        "createdAt": "2021-05-29T11:17:57.326Z",
+        "updatedAt": "2021-05-29T11:17:57.326Z"
+      },
+      "createdAt": "2021-05-29T11:17:57.326Z",
+      "updatedAt": "2021-05-29T11:17:57.326Z"
+    }
+  ],
+  "peopleAlbums": [
+    {
+      "id": "0",
+      "title": "people Album1",
+      "description": "my album",
+      "ownerId": "60b222e537838723b02201fd",
+      "photos": [
+        {
+          "id": "60b222e537838723b02201fd",
+          "title": "photo1",
+          "description": "my photo",
+          "photoUrl": "localhost:3000/photos\\2021-05-29T11-17-57.298ZFCFS.PNG",
+          "Fav": [
+            "60b222e537838723b02201fd"
+          ],
+          "privacy": "public",
+          "ownerId": "60b222e537838723b02201fd",
+          "tags": [
+            "Nature"
+          ],
+          "peopleTags": [
+            {
+              "tagging": "integer",
+              "tagged": [
+                "60b222e537838723b02201fd"
+              ],
+              "createdAt": "2021-05-29T11:17:57.326Z",
+              "updatedAt": "2021-05-29T11:17:57.326Z"
+            }
+          ],
+          "comments": [
+            {
+              "comment": "this is a comment",
+              "user": "60b222e537838723b02201fd",
+              "createdAt": "2021-05-29T11:17:57.326Z",
+              "updatedAt": "2021-05-29T11:17:57.326Z"
+            }
+          ],
+          "createdAt": "2021-05-29T11:17:57.326Z",
+          "updatedAt": "2021-05-29T11:17:57.326Z"
+        }
+      ],
+      "coverPhoto": {
+        "id": "0",
+        "title": "photo1",
+        "description": "my photo",
+        "photoUrl": "https://picsum.photos/400/200?random=1",
+        "Fav": [
+          "60b222e537838723b02201fd"
+        ],
+        "privacy": "private",
+        "ownerId": "60b222e537838723b02201fd",
+        "tags": [
+          "Nature"
+        ],
+        "peopleTags": [
+          {
+            "tagging": "integer",
+            "tagged": [
+              "60b222e537838723b02201fd"
+            ],
+            "createdAt": "2021-05-29T11:17:57.326Z",
+            "updatedAt": "2021-05-29T11:17:57.326Z"
+          }
+        ],
+        "comments": [
+          0,
+          1
+        ],
+        "createdAt": "2021-05-29T11:17:57.326Z",
+        "updatedAt": "2021-05-29T11:17:57.326Z"
+      },
+      "createdAt": "2021-05-29T11:17:57.326Z",
+      "updatedAt": "2021-05-29T11:17:57.326Z"
+    },
+    {
+      "id": "1",
+      "title": "people Album2",
+      "description": "my album",
+      "ownerId": "0",
+      "photos": [
+        {
+          "id": "60b222e537838723b02201fd",
+          "title": "photo1",
+          "description": "my photo",
+          "photoUrl": "localhost:3000/photos\\2021-05-29T11-17-57.298ZFCFS.PNG",
+          "Fav": [
+            "60b222e537838723b02201fd"
+          ],
+          "privacy": "public",
+          "ownerId": "60b222e537838723b02201fd",
+          "tags": [
+            "Nature"
+          ],
+          "peopleTags": [
+            {
+              "tagging": "integer",
+              "tagged": [
+                "60b222e537838723b02201fd"
+              ],
+              "createdAt": "2021-05-29T11:17:57.326Z",
+              "updatedAt": "2021-05-29T11:17:57.326Z"
+            }
+          ],
+          "comments": [
+            {
+              "comment": "this is a comment",
+              "user": "60b222e537838723b02201fd",
+              "createdAt": "2021-05-29T11:17:57.326Z",
+              "updatedAt": "2021-05-29T11:17:57.326Z"
+            }
+          ],
+          "createdAt": "2021-05-29T11:17:57.326Z",
+          "updatedAt": "2021-05-29T11:17:57.326Z"
+        }
+      ],
+      "coverPhoto": {
+        "id": "1",
+        "title": "photo1",
+        "description": "my photo",
+        "photoUrl": "https://picsum.photos/200/200?random=2",
+        "Fav": [
+          "60b222e537838723b02201fd"
+        ],
+        "privacy": "private",
+        "ownerId": "60b222e537838723b02201fd",
+        "tags": [
+          "Nature"
+        ],
+        "peopleTags": [
+          {
+            "tagging": "integer",
+            "tagged": [
+              "60b222e537838723b02201fd"
+            ],
+            "createdAt": "2021-05-29T11:17:57.326Z",
+            "updatedAt": "2021-05-29T11:17:57.326Z"
+          }
+        ],
+        "comments": [
+          0,
+          1
+        ],
+        "createdAt": "2021-05-29T11:17:57.326Z",
+        "updatedAt": "2021-05-29T11:17:57.326Z"
+      },
+      "createdAt": "2021-05-29T11:17:57.326Z",
+      "updatedAt": "2021-05-29T11:17:57.326Z"
+    }
+  ],
+  "groupPhotos": [
+    {
+      "id": 0,
+      "url": "https://picsum.photos/600/200?random=1",
+      "description": "desciption",
+      "title": "Title",
+      "Fav": []
+    },
+    {
+      "id": 1,
+      "url": "https://picsum.photos/400/200?random=1",
+      "description": "desciption",
+      "title": "Title",
+      "Fav": []
+    },
+    {
+      "id": 2,
+      "url": "https://picsum.photos/400/400?random=1",
+      "description": "desciption",
+      "title": "Title",
+      "Fav": []
+    },
+    {
+      "id": 3,
+      "url": "https://picsum.photos/500/300?random=1",
+      "description": "desciption",
+      "title": "Title",
+      "Fav": []
+    },
+    {
+      "id": 4,
+      "url": "https://picsum.photos/300/200?random=1",
+      "description": "desciption",
+      "title": "Title",
+      "Fav": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "url": "https://picsum.photos/200/200?random=1",
+      "description": "post desciption",
+      "title": "post Title",
+      "Fav": [],
+      "id": 5
+    },
+    {
+      "url": "https://picsum.photos/200/200?random=1",
+      "description": "post desciption",
+      "title": "post Title",
+      "Fav": [],
+      "id": 6
+    }
+  ],
+  "photos2": [
+    {
+      "_id": "0",
+      "title": "photo1",
+      "description": "my photo",
+      "photoUrl": "https://picsum.photos/300/200?random=4",
+      "Fav": [
+        {
+          "numPhotos": 5,
+          "numFollowing": 5,
+          "Fname": "Mostafa",
+          "Lname": "Ashraf",
+          "UserName": "Mostafa123",
+          "Avatar": "https://picsum.photos/200"
+        }
+      ],
+      "privacy": "public",
+      "ownerId": {
+        "_id": "609dd9ac9a52002aa498befe",
+        "Fname": "Mostafa",
+        "Lname": "Ashraf",
+        "UserName": "Mostafa123",
+        "Email": "test@test.com",
+        "Avatar": "https://picsum.photos/200"
+      },
+      "tags": [
+        "Nature"
+      ],
+      "comments": [
+        {
+          "comment": "OMG",
+          "user": {
+            "_id": "609dd9ac9a52002aa498befe",
+            "Fname": "Mostafa",
+            "Lname": "Ashraf",
+            "UserName": "Mostafa123",
+            "Email": "test@test.com",
+            "Avatar": "https://picsum.photos/200"
+          },
+          "createdAt": "2021-05-29T11:17:57.326Z",
+          "updatedAt": "2021-05-29T11:17:57.326Z"
+        },
+        {
+          "comment": "WOW",
+          "user": {
+            "_id": "609dd9ac9a52002aa498befe",
+            "Fname": "Mostafa",
+            "Lname": "Ashraf",
+            "UserName": "HabibaElhelaly",
+            "Email": "test@test.com",
+            "Avatar": "https://picsum.photos/200"
+          },
+          "createdAt": "2021-05-29T11:17:57.326Z",
+          "updatedAt": "2021-05-29T11:17:57.326Z"
+        },
+        {
+          "comment": "Great Pic",
+          "user": {
+            "_id": "609dd9ac9a52002aa498befe",
+            "Fname": "Mostafa",
+            "Lname": "Ashraf",
+            "UserName": "Mostafa123",
+            "Email": "test@test.com",
+            "Avatar": "https://picsum.photos/200"
+          },
+          "createdAt": "2021-05-29T11:17:57.326Z",
+          "updatedAt": "2021-05-29T11:17:57.326Z"
+        }
+      ],
+      "createdAt": "2021-05-29T11:17:57.326Z",
+      "updatedAt": "2021-05-29T11:17:57.326Z"
+    },
+    {
+      "_id": "1",
+      "title": "photo1",
+      "description": "my photo",
+      "photoUrl": "https://picsum.photos/400/200?random=1",
+      "Fav": [
+        {
+          "numPhotos": 5,
+          "numFollowing": 5,
+          "Fname": "Mostafa",
+          "Lname": "Ashraf",
+          "UserName": "Mostafa123",
+          "Avatar": "https://picsum.photos/200"
+        }
+      ],
+      "privacy": "public",
+      "ownerId": {
+        "_id": "609dd9ac9a52002aa498befe",
+        "Fname": "Mostafa",
+        "Lname": "Ashraf",
+        "UserName": "Mostafa123",
+        "Email": "test@test.com",
+        "Avatar": "https://picsum.photos/200"
+      },
+      "tags": [
+        "Nature"
+      ],
+      "comments": [
+        {
+          "comment": "Beautiful",
+          "user": {
+            "_id": "609dd9ac9a52002aa498befe",
+            "Fname": "Mostafa",
+            "Lname": "Ashraf",
+            "UserName": "Mostafa123",
+            "Email": "test@test.com",
+            "Avatar": "https://picsum.photos/200"
+          },
+          "createdAt": "2021-05-29T11:17:57.326Z",
+          "updatedAt": "2021-05-29T11:17:57.326Z"
+        }
+      ],
+      "createdAt": "2021-05-29T11:17:57.326Z",
+      "updatedAt": "2021-05-29T11:17:57.326Z"
+    },
+    {
+      "_id": "2",
+      "title": "photo1",
+      "description": "my photo",
+      "photoUrl": "https://picsum.photos/300/200?random=3",
+      "Fav": [
+        {
+          "numPhotos": 5,
+          "numFollowing": 5,
+          "Fname": "Mostafa",
+          "Lname": "Ashraf",
+          "UserName": "Mostafa123",
+          "Avatar": "https://picsum.photos/200"
+        }
+      ],
+      "privacy": "public",
+      "ownerId": {
+        "_id": "609dd9ac9a52002aa498befe",
+        "Fname": "Mostafa",
+        "Lname": "Ashraf",
+        "UserName": "Mostafa123",
+        "Email": "test@test.com",
+        "Avatar": "https://picsum.photos/200"
+      },
+      "tags": [
+        "Nature"
+      ],
+      "comments": [
+        {
+          "comment": "Nice",
+          "user": {
+            "_id": "609dd9ac9a52002aa498befe",
+            "Fname": "Mostafa",
+            "Lname": "Ashraf",
+            "UserName": "Mostafa123",
+            "Email": "test@test.com",
+            "Avatar": "https://picsum.photos/200"
+          },
+          "createdAt": "2021-05-29T11:17:57.326Z",
+          "updatedAt": "2021-05-29T11:17:57.326Z"
+        }
+      ],
+      "createdAt": "2021-05-29T11:17:57.326Z",
+      "updatedAt": "2021-05-29T11:17:57.326Z"
+    },
+    {
+      "_id": "3",
+      "title": "photo1",
+      "description": "my photo",
+      "photoUrl": "https://picsum.photos/400/200?random=1",
+      "Fav": [
+        {
+          "numPhotos": 5,
+          "numFollowing": 5,
+          "Fname": "Mostafa",
+          "Lname": "Ashraf",
+          "UserName": "Mostafa123",
+          "Avatar": "https://picsum.photos/200"
+        }
+      ],
+      "privacy": "public",
+      "ownerId": {
+        "_id": "609dd9ac9a52002aa498befe",
+        "Fname": "Mostafa",
+        "Lname": "Ashraf",
+        "UserName": "Mostafa123",
+        "Email": "test@test.com",
+        "Avatar": "https://picsum.photos/200"
+      },
+      "tags": [
+        "Nature"
+      ],
+      "comments": [
+        {
+          "comment": "Hi",
+          "user": {
+            "_id": "609dd9ac9a52002aa498befe",
+            "Fname": "Mostafa",
+            "Lname": "Ashraf",
+            "UserName": "Mostafa123",
+            "Email": "test@test.com",
+            "Avatar": "https://picsum.photos/200"
+          },
+          "createdAt": "2021-05-29T11:17:57.326Z",
+          "updatedAt": "2021-05-29T11:17:57.326Z"
+        }
+      ],
+      "createdAt": "2021-05-29T11:17:57.326Z",
+      "updatedAt": "2021-05-29T11:17:57.326Z"
+    },
+    {
+      "_id": "4",
+      "title": "photo1",
+      "description": "my photo",
+      "photoUrl": "https://picsum.photos/200?random=4",
+      "Fav": [
+        {
+          "numPhotos": 5,
+          "numFollowing": 5,
+          "Fname": "Mostafa",
+          "Lname": "Ashraf",
+          "UserName": "Mostafa123",
+          "Avatar": "https://picsum.photos/200"
+        }
+      ],
+      "privacy": "public",
+      "ownerId": {
+        "_id": "609dd9ac9a52002aa498befe",
+        "Fname": "Mostafa",
+        "Lname": "Ashraf",
+        "UserName": "Mostafa123",
+        "Email": "test@test.com",
+        "Avatar": "https://picsum.photos/200"
+      },
+      "tags": [
+        "Nature"
+      ],
+      "comments": [
+        {
+          "comment": "Picc",
+          "user": {
+            "_id": "609dd9ac9a52002aa498befe",
+            "Fname": "Mostafa",
+            "Lname": "Ashraf",
+            "UserName": "Mostafa123",
+            "Email": "test@test.com",
+            "Avatar": "https://picsum.photos/200"
+          },
+          "createdAt": "2021-05-29T11:17:57.326Z",
+          "updatedAt": "2021-05-29T11:17:57.326Z"
+        }
+      ],
+      "createdAt": "2021-05-29T11:17:57.326Z",
+      "updatedAt": "2021-05-29T11:17:57.326Z"
+    },
+    {
+      "_id": "5",
+      "title": "photo1",
+      "description": "my photo",
+      "photoUrl": "https://picsum.photos/300/200?random=3",
+      "Fav": [
+        {
+          "numPhotos": 5,
+          "numFollowing": 5,
+          "Fname": "Mostafa",
+          "Lname": "Ashraf",
+          "UserName": "Mostafa123",
+          "Avatar": "https://picsum.photos/200"
+        },
+        {
+          "numPhotos": 5,
+          "numFollowing": 5,
+          "Fname": "Mostafa",
+          "Lname": "Ashraf",
+          "UserName": "Mostafa123",
+          "Avatar": "https://picsum.photos/200"
+        },
+        {
+          "numPhotos": 5,
+          "numFollowing": 5,
+          "Fname": "Mostafa",
+          "Lname": "Ashraf",
+          "UserName": "Mostafa123",
+          "Avatar": "https://picsum.photos/200"
+        }
+      ],
+      "privacy": "public",
+      "ownerId": {
+        "_id": "6",
+        "Fname": "Mostafa",
+        "Lname": "Ashraf",
+        "UserName": "Mostafa123",
+        "Email": "test@test.com",
+        "Avatar": "https://picsum.photos/200"
+      },
+      "tags": [
+        "Nature"
+      ],
+      "comments": [
+        {
+          "comment": "what a pic",
+          "user": {
+            "_id": "609dd9ac9a52002aa498befe",
+            "Fname": "Mostafa",
+            "Lname": "Ashraf",
+            "UserName": "Mostafa123",
+            "Email": "test@test.com",
+            "Avatar": "https://picsum.photos/200"
+          },
+          "createdAt": "2021-05-29T11:17:57.326Z",
+          "updatedAt": "2021-05-29T11:17:57.326Z"
+        }
+      ],
+      "createdAt": "2021-05-29T11:17:57.326Z",
+      "updatedAt": "2021-05-29T11:17:57.326Z"
+    },
+    {
+      "_id": "7",
+      "title": "photo1",
+      "description": "my photo",
+      "photoUrl": "https://picsum.photos/400/200?random=2",
+      "Fav": [
+        {
+          "numPhotos": 5,
+          "numFollowing": 5,
+          "Fname": "Mostafa",
+          "Lname": "Ashraf",
+          "UserName": "Mostafa123",
+          "Avatar": "https://picsum.photos/200"
+        }
+      ],
+      "privacy": "public",
+      "ownerId": {
+        "_id": "8",
+        "Fname": "Mostafa",
+        "Lname": "Ashraf",
+        "UserName": "Mostafa123",
+        "Email": "test@test.com",
+        "Avatar": "https://picsum.photos/200"
+      },
+      "tags": [
+        "Nature"
+      ],
+      "comments": [
+        {
+          "comment": "not great",
+          "user": {
+            "_id": "609dd9ac9a52002aa498befe",
+            "Fname": "Mostafa",
+            "Lname": "Ashraf",
+            "UserName": "Mostafa123",
+            "Email": "test@test.com",
+            "Avatar": "https://picsum.photos/200"
+          },
+          "createdAt": "2021-05-29T11:17:57.326Z",
+          "updatedAt": "2021-05-29T11:17:57.326Z"
+        }
+      ],
+      "createdAt": "2021-05-29T11:17:57.326Z",
+      "updatedAt": "2021-05-29T11:17:57.326Z"
+    }
+  ]
+}
